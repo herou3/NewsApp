@@ -5,6 +5,71 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>93ED1024-AD82-4A48-9C56-F24EC4744C92</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>93ED1024-AD82-4A48-9C56-F24EC4744C92.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>584385326.73206401</real>
+			<key>timeStoppedRecording</key>
+			<real>584385330.94971597</real>
+			<key>title</key>
+			<string>Build NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>93ED1024-AD82-4A48-9C56-F24EC4744C92</string>
+		</dict>
+		<key>EB60EA4A-FF7F-46AB-BB98-4383CE18D7A3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EB60EA4A-FF7F-46AB-BB98-4383CE18D7A3.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean NewsApp</string>
+			<key>timeStartedRecording</key>
+			<real>584385712.01820302</real>
+			<key>timeStoppedRecording</key>
+			<real>584385712.48544002</real>
+			<key>title</key>
+			<string>Clean NewsApp</string>
+			<key>uniqueIdentifier</key>
+			<string>EB60EA4A-FF7F-46AB-BB98-4383CE18D7A3</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
