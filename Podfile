@@ -10,5 +10,6 @@ target 'NewsApp' do
   pod 'Alamofire', '~> 5.0.0-beta.5'
   pod 'Realm'
   pod 'SnapKit', '~> 5.0.0'
+  pod 'RealmSwift'
 
 end
